@@ -1,0 +1,11 @@
+.submit-form {
+    padding: 40px;
+    max-width: 400px;
+    margin: auto;
+}
+
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
